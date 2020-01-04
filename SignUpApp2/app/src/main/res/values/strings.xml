@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SignUpApp</string>
+    <string name="daftar">Sign Up</string>
+    <string name="user">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="conten_text">Thohari Studio adalah tempat untuk belajar pemrograman perangkat bergerak baik dengan
+        Android, IOS, maupun Windows Phone. Tidak perlu khawatir jika anda belum memiliki basic programming
+        sebelumnya. Sebab disini anda akan di ajari from zero to hero  dalam membuat aplikasi berbasis mobile.
+        Segera daftarkan diri anda, minggu depan harga naik!</string>
+    <string name="Welcome">Selamat datang di Polines Studio</string>
+</resources>

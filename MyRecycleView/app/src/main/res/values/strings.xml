@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyRecycleView</string>
+    <string name="hmj_name">HMJ Polines</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>HMJ Elektro</item>
+        <item>HMJ Sipil</item>
+        <item>HMJ Mesin</item>
+        <item>HMJ Akutansi</item>
+        <item>HMJ Administrasi Bisnis</item>
+        <item>UKM PCC</item>
+        <item>UKM Konsep</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Himpunan Mahasiswa Jurusan Teknik Elektro adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik Mesin untuk melaksanakan kegiatan yang menitikberatkan pada bidang akademik di tingkat Jarusan yang bertakwa pada Tuhan Yang Maha Esa, mengabdi pada masyarakat bangsa dan negara serta berpegang teguh pada Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Sipil adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik Mesin untuk melaksanakan kegiatan yang menitikberatkan pada bidang akademik di tingkat Jarusan yang bertakwa pada Tuhan Yang Maha Esa, mengabdi pada masyarakat bangsa dan negara serta berpegang teguh pada Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik Mesin untuk melaksanakan kegiatan yang menitikberatkan pada bidang akademik di tingkat Jarusan yang bertakwa pada Tuhan Yang Maha Esa, mengabdi pada masyarakat bangsa dan negara serta berpegang teguh pada Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Akutansi adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik Mesin untuk melaksanakan kegiatan yang menitikberatkan pada bidang akademik di tingkat Jarusan yang bertakwa pada Tuhan Yang Maha Esa, mengabdi pada masyarakat bangsa dan negara serta berpegang teguh pada Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Administrasi Bisnis adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik Mesin untuk melaksanakan kegiatan yang menitikberatkan pada bidang akademik di tingkat Jarusan yang bertakwa pada Tuhan Yang Maha Esa, mengabdi pada masyarakat bangsa dan negara serta berpegang teguh pada Tri Dharma Perguruan Tinggi.</item>
+        <item>Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disingkat UKM PCC, merupakan organisasi di Politeknik Negeri Semarang yang bergerak di bidang informasi dan teknologi. UKM Polytechnic Computer Club secara eksplisit terbagi menjadi dua bagian inti, yaitu Workshop dan Organisasi.</item>
+        <item>UKM Komunitas Seni Polines merupakan satu-satunya unit kegiatan mahasiswa di Politeknik Negeri Semarang yang bergerak di bidang Kesenian. Nama UKM Komunitas Seni Polines diresmikan pada tanggal 21 Juni 2003. Fungsi UKM KoNSeP adalah sebagai satu-satunya sarana pembangunan dan penyaluran minat dan bakat Mahasiswa Polines dalam bidang seni dan berorganisasi.</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/QxdcLRBk/hme.jpg</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+    </string-array>
+</resources>

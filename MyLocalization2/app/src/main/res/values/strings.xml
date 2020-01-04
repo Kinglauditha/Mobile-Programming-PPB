@@ -1,0 +1,24 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">MyLocalization</string>
+
+    <string name="football">Indonesia National Team win against Thailand National Team</string>
+    <string name="goal">Goal from Indonesia scored by %1$s and %2$s, so the final score is %3$d - %4$d for Indonesia victory</string>
+
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">%d song found</item>
+        <item quantity="other">%d song found</item>
+    </plurals>
+    <string name="app_homeurl">
+Visit us at <xliff:g
+        id="homepage">https://www.polines.ac.id</xliff:g></string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="tab_text1">Home</string>
+    <string name="tab_text2">Profile</string>
+    <string name="Name">Name</string>
+    <string name="Address">Address</string>
+    <string name="Hobby">Hobby</string>
+    <string name="Quote">Quote</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blankfragment</string>
+</resources>

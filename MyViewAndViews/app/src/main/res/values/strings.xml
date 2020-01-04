@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Perjuangan B.J. Habibie dari masa kecil hingga menjadi presiden
+        Indonesia ketiga dilaluinya dengan keras dan penuh dengan perjuangan yang panjang. Banyak
+        peran dan karya BJ Habibe bagi bangsa Indonesia khususnya dalam bidang kedirgantaraan.
+        Berikut profil dan biografi BJ Habibie dari masa kecil hingga ia sukses saat ini.
+    </string>
+    <string name="nama">Prof. Dr. Ing. H. Bacharuddin Jusuf Habibie</string>
+    <string name="TTL">Parepare, 15 Juni 1936</string>
+    <string name="Jabatan">Presiden Ke-3 Indonesia\n
+    Wakil Presiden Indonesia Ke-7\n
+    Menteri Riset dan Teknologi Indonesia ke-4
+    </string>
+    <string name="Penemuan">Crack Progression Theory\n
+        Pesawat N-250\n
+        Pesawat R80</string>
+    <string name="Donasi">Donasi Pesawat R80</string>
+    <string name="Ajakan">Sudah saatnya Indonesia Punya Pesawat Sendiri, Salurkan Donasi
+    Anda!</string>
+</resources>
